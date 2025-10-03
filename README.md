@@ -5,27 +5,28 @@ This repository unites 5 NFT sub-collections that form part of the cultural laye
 Each collection represents a creative artifact within the BuildForGood ecosystem.
 
 ---
-
 ## 🎨 Collections
 
-1. OP Cards – collectible Optimism cards  
-2. OP Avatars – Optimism-inspired avatars (2D & 3D)  
-3. BuildForGood Coloring Way – Optimism coloring artworks (PDF + NFTs)  
-4. OP Posters – posters & illustrations  
-5. Optimism Meme Collection – community-driven memes  
+1. Build For GOOD: OP Cards – collectible Optimism cards → [View Collection](https://opensea.io/collection/build-for-good-op-cards)  
+2. OP Avatars: Identity for Good – Optimism-inspired avatars → [View Collection](https://opensea.io/collection/op-avatars-identity-for-good)  
+3. Build for Good - The Coloring Way – Optimism coloring artworks → [View Collection](https://opensea.io/collection/build-for-good-the-coloring-way)  
+4. BuildForGood - Public Goods Posters Optimism – posters & illustrations → [View Collection](https://opensea.io/collection/buildforgood-public-goods-posters-optimism)  
+5. Optimism Meme Collection – memes created for the community → [View Collection](https://opensea.io/collection/optimism-meme-collection)  
 
----
 
-## 📊 NFT Owners (as of DD/MM/YYYY)
 
-| Collection                 | NFT Owners |
-|-----------------------------|------------|
-| OP Cards                    | XX         |
-| OP Avatars                  | XX         |
-| BuildForGood Coloring Way   | XX         |
-| OP Posters                  | XX         |
-| Optimism Meme Collection    | XX         |
-| Total                   | XX         |
+## 📊 NFT Metrics (as of DD/MM/YYYY)
+
+| Collection                 | NFT Owners | Sales |
+|-----------------------------|------------|-------|
+| OP Cards                    | 49         | 114   |
+| OP Avatars                  | 21         | 53    |
+| BuildForGood Coloring Way   | 6          | 4     |
+| OP Posters                  | 8          | 6     |
+| Optimism Meme Collection    | 4          | 9     |
+
+| Total                       | 88         | 186    |
+
 
 ---
 
