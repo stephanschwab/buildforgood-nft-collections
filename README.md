@@ -41,7 +41,7 @@ Each collection represents a creative artifact within the BuildForGood ecosystem
 This repository is licensed under the [MIT License](./LICENSE).
 
 ## 🌍 BuildForGood Ecosystem  
-This project is part of the BuildForGood Ecosystem for Optimism.  
+**This project is part of the BuildForGood Ecosystem for Optimism**.  
 
 📖 Books & Articles • 🕹 Games • 🖼 NFTs & Memes • 🌍 Onchain Artifacts • 🎥 Media  
 
