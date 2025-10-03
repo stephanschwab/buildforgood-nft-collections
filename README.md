@@ -1,5 +1,5 @@
 # BuildForGood NFT Collections
-📌 This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism.
+📌 **This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism**.
 
 This repository unites 5 NFT sub-collections that form part of the cultural layer of Optimism.  
 Each collection represents a creative artifact within the BuildForGood ecosystem.
@@ -25,7 +25,7 @@ Each collection represents a creative artifact within the BuildForGood ecosystem
 | OP Posters                  | 8          | 6     |
 | Optimism Meme Collection    | 4          | 9     |
 
-| Total                       | 88         | 186    |
+| **Total**                   | **88**     |**186**|
 
 
 ---
