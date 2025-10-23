@@ -1,7 +1,7 @@
 # BuildForGood NFT Collections
 📌 **This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism**.
 
-This repository unites 5 NFT sub-collections that form part of the cultural layer of Optimism.  
+This repository unites 6 NFT sub-collections that form part of the cultural layer of Optimism.  
 Each collection represents a creative artifact within the BuildForGood ecosystem.
 
 ---
@@ -12,7 +12,7 @@ Each collection represents a creative artifact within the BuildForGood ecosystem
 3. Build for Good - The Coloring Way – Optimism coloring artworks → [View Collection](https://opensea.io/collection/build-for-good-the-coloring-way)  
 4. BuildForGood - Public Goods Posters Optimism – posters & illustrations → [View Collection](https://opensea.io/collection/buildforgood-public-goods-posters-optimism)  
 5. Optimism Meme Collection – memes created for the community → [View Collection](https://opensea.io/collection/optimism-meme-collection)  
-
+6. BuildForGood Avatars 3D: Faces of Optimism → [View Collection](https://opensea.io/collection/buildforgood-avatars-3d-faces-of-optimism) 
 
 
 ## 📊 NFT Metrics (as of DD/MM/YYYY)
